@@ -15,7 +15,7 @@
     width: 114px;
 }
 .logo{
-    background-image: url(/amazon/amazon_logo.png);
+    background-image: url(amazon/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -204,7 +204,7 @@ i{
     height: 800px;
     width: 1500px;
     background-color: #F5F6F6;
-    background-image: url(/amazon/hero.jpg);
+    background-image: url(amazon/hero.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: flex; */
@@ -247,7 +247,7 @@ i{
     color: #007185;
 }
 #headset{
-    background-image: url(/amazon/gaming/headsets.jpg);
+    background-image: url(amazon/gaming/headsets.jpg);
     background-size: contain;
     background-repeat: no-repeat; 
     display: inline-block;
@@ -256,7 +256,7 @@ i{
     
 }
 #keyboards{
-    background-image: url(/amazon/gaming/keyboards.jpg);
+    background-image: url(amazon/gaming/keyboards.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -264,7 +264,7 @@ i{
     height: 115px;    
 }
 #mice{
-    background-image: url(/amazon/gaming/mice.jpg);
+    background-image: url(amazon/gaming/mice.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
@@ -273,7 +273,7 @@ i{
     height: 115px;
 }
 #chair{
-    background-image: url(/amazon/gaming/chair.jpg);
+    background-image: url(amazon/gaming/chair.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     /* display: inline-block; */
